@@ -1,6 +1,6 @@
 {
     "name": "codeat3/blade-file-icons",
-    "description": "A package to easily make use of File Icons in your Laravel Blade views.",
+    "description": "A package to easily make use of \"File Icons\" in your Laravel Blade views.",
     "keywords": ["Blade", "fileicons", "Laravel"],
     "homepage": "https://github.com/codeat3/blade-file-icons",
     "license": "MIT",
