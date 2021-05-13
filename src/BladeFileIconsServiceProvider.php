@@ -32,7 +32,7 @@ final class BladeFileIconsServiceProvider extends ServiceProvider
         if ($this->app->runningInConsole()) {
             $this->publishes([
                 __DIR__.'/../resources/svg' => public_path('vendor/blade-file-icons'),
-            ], 'blade-file-icons');
+            ], 'blade-fileicon'); // TODO: change this alias to `blade-file-icons` in next major release
 
             $this->publishes([
                 __DIR__.'/../config/blade-file-icons.php' => $this->app->configPath('blade-file-icons.php'),
