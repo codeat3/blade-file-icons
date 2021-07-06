@@ -19,7 +19,6 @@ final class BladeFileIconsServiceProvider extends ServiceProvider
 
             $factory->add('file-icons', array_merge(['path' => __DIR__.'/../resources/svg'], $config));
         });
-
     }
 
     private function registerConfig(): void
