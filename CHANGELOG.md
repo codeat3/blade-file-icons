@@ -2,6 +2,14 @@
 
 This changelog follows [the Keep a Changelog standard](https://keepachangelog.com).
 
+## [Unreleased](https://github.com/codeat3/blade-file-icons/compare/1.5.1...main)
+
+## 1.5.1 (2021-09-04)
+* Fixes #3
+
+## 1.4.1 (2021-06-07)
+* Synced with the latest commit with all the updated icons (https://github.com/file-icons/icons/commit/e6e6e6ac8cb1d91867167c228c00a667f4d47101)
+
 ## 1.4.1 (2021-06-07)
 * Synced with the latest commit with all the updated icons (https://github.com/file-icons/icons/commit/e6e6e6ac8cb1d91867167c228c00a667f4d47101)
 
