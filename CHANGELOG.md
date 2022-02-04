@@ -2,7 +2,15 @@
 
 This changelog follows [the Keep a Changelog standard](https://keepachangelog.com).
 
-## [Unreleased](https://github.com/codeat3/blade-file-icons/compare/1.6.1...HEAD)
+## [Unreleased](https://github.com/codeat3/blade-file-icons/compare/1.7.1...HEAD)
+
+## [1.7.1](https://github.com/codeat3/blade-file-icons/compare/1.6.1...1.7.1) - 2022-02-04
+
+## What's Changed
+
+- Addded support for Laravel 9 by @swapnilsarwe in https://github.com/codeat3/blade-file-icons/pull/4
+
+**Full Changelog**: https://github.com/codeat3/blade-file-icons/compare/1.6.1...1.7.1
 
 ## [1.6.1](https://github.com/codeat3/blade-file-icons/compare/1.5.1...1.6.1) - 2022-01-03
 
