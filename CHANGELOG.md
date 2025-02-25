@@ -2,7 +2,15 @@
 
 This changelog follows [the Keep a Changelog standard](https://keepachangelog.com).
 
-## [Unreleased](https://github.com/codeat3/blade-file-icons/compare/1.9.0...HEAD)
+## [Unreleased](https://github.com/codeat3/blade-file-icons/compare/1.10.0...HEAD)
+
+## [1.10.0](https://github.com/codeat3/blade-file-icons/compare/1.9.0...1.10.0) - 2025-02-25
+
+### What's Changed
+
+* laravel 12 support added by @swapnilsarwe in https://github.com/codeat3/blade-file-icons/pull/8
+
+**Full Changelog**: https://github.com/codeat3/blade-file-icons/compare/1.9.0...1.10.0
 
 ## [1.9.0](https://github.com/codeat3/blade-file-icons/compare/1.8.1...1.9.0) - 2024-02-28
 
